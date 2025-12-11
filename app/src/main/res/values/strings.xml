@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">AgendaDAM</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_dialogo">Detalles de la Tarea</string>
+    <string name="prioridad_label">Prioridad:</string>
+    <string name="dificultad_label">Dificultad:</string> <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
 </resources>
