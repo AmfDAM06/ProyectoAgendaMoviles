@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Agenda DAM</string>
+
+    <string name="hint_usuario">Username</string>
+    <string name="hint_email">Email (Register only)</string>
+    <string name="hint_pass">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_registro">Register</string>
+
+    <string name="menu_tareas">Tasks</string>
+    <string name="menu_api">API</string>
+    <string name="menu_perfil">Profile</string>
+    <string name="menu_ajustes">Settings</string>
+
+    <string name="titulo_dialogo">Task Details</string>
+    <string name="prioridad_label">Priority:</string>
+    <string name="dificultad_label">Difficulty:</string>
+    <string name="btn_guardar">Save</string>
+    <string name="btn_cancelar">Cancel</string>
+
+    <string name="lbl_usuario">User:</string>
+    <string name="hint_nuevo_email">New Email</string>
+    <string name="hint_nueva_pass">New Password</string>
+    <string name="btn_actualizar">Update Profile</string>
+
+    <string name="titulo_config">Configuration</string>
+    <string name="switch_vip">Enable VIP Mode</string>
+    <string name="desc_vip">Your name will look golden.</string>
+    <string name="btn_logout">Log Out</string>
+</resources>
